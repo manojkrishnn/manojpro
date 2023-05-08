@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: httpd
+          image: manojkrishnanmk/prabhaima:latest
           imagePullPolicy: Always
